@@ -13,6 +13,7 @@
     <h1><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="wave" width="50"/> Hello, I'm Pradeepan <img src="https://media.giphy.com/media/1BcfiGlOGXzQw/giphy.gif" alt="smile" width="50"/></h1>
 </div>
 
+![Animated GIF](https://media.giphy.com/media/hvRJCFLfzcAsrR4ia7z/giphy.gif)
 
 
 
