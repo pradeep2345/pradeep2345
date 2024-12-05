@@ -1,7 +1,9 @@
 <img src="<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xhMTZmdDdtazI5eGdhZTl6Z2g2bTV3czJ2YnE3d2VhajFsOW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.webp" style="width: 100%; height: auto;" alt="Hacker GIF">
 
 
-# Hello, I'm Pradeepan
+<div align="center">
+    <h1>Hello, I'm Pradeepan</h1>
+</div>
 
 Welcome to my profile!
 
