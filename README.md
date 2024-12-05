@@ -9,20 +9,10 @@
     </h1>
 </div>
 
-<style>
-@keyframes wave {
-    0% { transform: rotate(0deg); }
-    25% { transform: rotate(15deg); }
-    50% { transform: rotate(-15deg); }
-    75% { transform: rotate(15deg); }
-    100% { transform: rotate(0deg); }
-}
+<div align="center">
+    <h1><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="wave" width="50"/> Hello, I'm Pradeepan <img src="https://media.giphy.com/media/1BcfiGlOGXzQw/giphy.gif" alt="smile" width="50"/></h1>
+</div>
 
-@keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-}
-</style>
 
 
 
