@@ -1,5 +1,5 @@
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xhMTZmdDdtazI5eGdhZTl6Z2g2bTV3czJ2YnE3d2VhajFsOW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.webp" style="width: 100%; height: auto;" alt="Hacker GIF">
 
-![Hacker GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xhMTZmdDdtazI5eGdhZTl6Z2g2bTV3czJ2YnE3d2VhajFsOW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TAiOMSf1o7lB54vo2A/giphy.webp)
 
 # Hello, I'm Pradeepan
 
