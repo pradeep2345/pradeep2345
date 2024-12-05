@@ -2,8 +2,28 @@
 
 
 <div align="center">
-    <h1>👋 Hello, I'm Pradeepan 😊</h1>
+    <h1>
+        <span style="display: inline-block; animation: wave 1s infinite;">👋</span> 
+        Hello, I'm Pradeepan 
+        <span style="display: inline-block; animation: bounce 1s infinite;">😊</span>
+    </h1>
 </div>
+
+<style>
+@keyframes wave {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(15deg); }
+    50% { transform: rotate(-15deg); }
+    75% { transform: rotate(15deg); }
+    100% { transform: rotate(0deg); }
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+</style>
+
 
 
 Welcome to my profile!
